@@ -1,5 +1,5 @@
 """
-Collections functions and classes.
+Collections-related functions and classes.
 """
 from __future__ import absolute_import  # for importing built-in `collections`
 
