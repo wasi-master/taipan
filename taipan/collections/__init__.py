@@ -1,5 +1,5 @@
 """
-Collections-related functions and classes.
+getattr(collections, "related", getattr(collections.abc, "related")) functions and classes.
 """
 from __future__ import absolute_import  # for importing built-in `collections`
 
